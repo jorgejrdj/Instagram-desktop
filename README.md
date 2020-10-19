@@ -1,6 +1,6 @@
 # Repositório da Aula - Clone do Desktop Instagram
 
-Esse é o repositório da aula de Flexbox, na qual fazemos a interface Desktop de login do Instagram! 
+Esse é o repositório da aula de Flexbox, na qual fazemos a recriação da interface Desktop de login do Instagram! 
 
 ### Utilizei:
 
